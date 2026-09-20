@@ -50,7 +50,7 @@ SKILLS = [
         "title": "用 Python 读懂一份数据",
         "category": "编程",
         "mode": "线上",
-        "image": ASSETS / "python.webp",
+        "image": ASSETS / "python.jpg",
         "person": "Alex",
         "avatar": "AX",
         "role": "数据分析师",
